@@ -129,3 +129,4 @@ dmypy.json
 # Pyre type checker
 .pyre/
 /hw/temp/
+/hw/temp_for_project/
