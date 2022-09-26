@@ -27,6 +27,7 @@ share/python-wheels/
 *.egg
 MANIFEST
 temp/
+.idea/
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
@@ -130,3 +131,4 @@ dmypy.json
 .pyre/
 /hw/temp/
 /hw/temp_for_project/
+/tutorial-env/
